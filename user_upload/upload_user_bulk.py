@@ -6,7 +6,7 @@ from typing import Dict, List
 from ZUPER import *
 
 HOST = "https://stagingv2.zuperpro.com/api/"
-API = '1c30dabfef2ab006fefe4f6f17292884'
+API = ''
 
 geo_host = 'https://maps.googleapis.com/maps/api/geocode/json'
 geo_API = 'AIzaSyBq_s_LfRdHH06w422HTJk4ZsxTCI5UUI8'
