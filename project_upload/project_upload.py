@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 
 #wb = openpyxl.load_workbook('D:/customer/Zuper_CUSTOMER.xlsx')
 HOST = "https://stagingv2.zuperpro.com/api/"
-API = '1c30dabfef2ab006fefe4f6f17292884'
+API = ''
 geo_host = 'https://maps.googleapis.com/maps/api/geocode/json'
 geo_API = 'AIzaSyBq_s_LfRdHH06w422HTJk4ZsxTCI5UUI8'
 zuper_create = ZUPER(HOST, API)
