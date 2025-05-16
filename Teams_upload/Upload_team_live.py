@@ -8,7 +8,7 @@ import random
 
 
 HOST = "https://us-east-1.zuperpro.com/api/"
-API = 'bca012636a18b9a51f0e8e5b71199c53'
+API = ''
 
 geo_host = 'https://maps.googleapis.com/maps/api/geocode/json'
 geo_API = 'AIzaSyBq_s_LfRdHH06w422HTJk4ZsxTCI5UUI8'
